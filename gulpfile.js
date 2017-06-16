@@ -1,6 +1,5 @@
-const elixir = require('laravel-elixir');
-
-require('laravel-elixir-vue');
+let elixir = require('laravel-elixir');
+require('laravel-elixir-vue-2');
 
 /*
  |--------------------------------------------------------------------------
@@ -13,7 +12,8 @@ require('laravel-elixir-vue');
  |
  */
 
-elixir(mix => {
+//noinspection BadExpressionStatementJS
+elixir(function(mix) {
     mix
         .sass('app.scss')
         .webpack('app.js');
