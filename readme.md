@@ -1,4 +1,4 @@
-# Laravel & Vue JS CRUD Example
+# LaraVue2.js
 
 ### Install
 
@@ -6,7 +6,7 @@
 
 2. Clone this repo:
 
-        git clone https://github.com/herusdianto/laravel-vue-crud.git
+        git clone https://github.com/okcjosh/xxx.git
     
 3. Once finished, change directory to laravel-vue-crud:
 
@@ -72,4 +72,3 @@
     
 5. All files (components, etc) are located in `resources/assets`.
     
-Check out the demo [here](https://www.youtube.com/watch?v=pRHGYFC5vnk).
